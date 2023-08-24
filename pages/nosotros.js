@@ -8,7 +8,7 @@ export default function Nosotros() {
       description='Sobre nosotros, guitarCO, tienda de música'
     >
       <main className='contenedor'>
-        <h2 className='heading'>Nosotros</h2>
+        <h1 className='heading'>Nosotros</h1>
         <div className={styles.contenido}>
           <Image
             src='/img/nosotros.jpg'

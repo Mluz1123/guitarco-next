@@ -21,7 +21,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -54,7 +54,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This app/site was created as a course project [React - The Complete Guide: Context Redux Hooks MERN +15 Apps](https://www.udemy.com/course/react-from-beginner-to-expert-creating-more-than-10-applications/?utm*source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.ES_cc.LATAM&utm_term=*._ag_121424001339_ ._ad_515898216146_._kw\_\_.\_de_c_._dm**.\_pl**.\_ti_dsa-1190286617479_._li_1003659_._pd\_\_._&matchtype=&gclid=EAIaIQobChMIk6Lbt5uAgQMV0i7UAR3B1w 3DEAAYASAAEgKG1fD_BwE) Created by [Juan Pablo De la torre Valdez]
+This app/site was created as a course project [React - The Complete Guide: Context Redux Hooks MERN +15 Apps]() Created by [Juan Pablo De la torre Valdez]()
 
 ## Contact
 

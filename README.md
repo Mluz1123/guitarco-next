@@ -32,19 +32,18 @@
 
 ![screenshot](https://github.com/Mluz1123/guitarco-next/blob/master/public/img/Overview.PNG)
 
-  <div align="left">
-  <h2>Where can I see your demo?</h2>
-  <h3>
-    <a href="https://guitarco-next.vercel.app/">
-      Demo
-    </a>
-  </h3>
-
-<h2> What was your experience?</h2>
-    <P>Know and learn about this great React front-end development web framework applying great concepts.</P>
-<h2> What have you learned/improved?</h2>
-    <p>* Server Side Rendering</p>
-    <p>* Next js</p>
+<div align="left">
+    <h3>Where can I see your demo?</h3>
+    <h3>
+        <a href="https://guitarco-next.vercel.app/">
+        Demo
+        </a>
+    </h3>
+        <h3> What was your experience?</h3>
+            <P>Know and learn about this great React front-end development web framework applying great concepts.</P>
+        <h3> What have you learned/improved?</h3>
+            <p>* Server Side Rendering</p>
+            <p>* Next js</p>
 </div>
 
 ### Built With

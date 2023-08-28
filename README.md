@@ -30,7 +30,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/Mluz1123/404-not-found/blob/main/img/Overview.PNG)
+![screenshot](https://github.com/Mluz1123/guitarco-next/blob/master/public/img/Overview.PNG)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 

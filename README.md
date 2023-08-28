@@ -32,15 +32,20 @@
 
 ![screenshot](https://github.com/Mluz1123/guitarco-next/blob/master/public/img/Overview.PNG)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+  <div align="left">
+  <h2>Where can I see your demo?</h2>
+  <h3>
+    <a href="https://guitarco-next.vercel.app/">
+      Demo
+    </a>
+  </h3>
 
-- Where can I see your demo?
-  <a href="https://guitarco-next.vercel.app/">
-- What was your experience?
+<h2> What was your experience?</h2>
     <P>Know and learn about this great React front-end development web framework applying great concepts.</P>
-- What have you learned/improved?
+<h2> What have you learned/improved?</h2>
     <p>* Server Side Rendering</p>
     <p>* Next js</p>
+</div>
 
 ### Built With
 
